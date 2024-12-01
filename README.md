@@ -1,0 +1,1 @@
+These are unorganized currently with no description as to what each script does, I will be adding descriptions to the scripts very soon. Please check scripts in python editing software to change paths as they are hardcoded in.
